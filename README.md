@@ -3,12 +3,13 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/mcamper/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/mcamper/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/mcamper/ticket-lifecycle)
+  - [osTicket: Cloud Deployment & Configuration](https://github.com/mcamper/osticket-prereqs)
+  - [osTicket: Cloud-Based Post-Install Configuration & Optimization](https://github.com/mcamper/post-install-config)
+  - [osTicket: Cloud-Based Ticket Lifecycle Management & Automation](https://github.com/mcamper/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring Active Directory within Azure VMs (Cloud-Based Deployment)](https://github.com/mcamper/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/mcamper/azure-network-protocols)
+  - [Configuring Active Directory in Azure VMs - Cloud-Based AD Deployment & Management](https://github.com/mcamper/configure-ad)
+  - [Network Security Groups (NSGs) & Protocol Analysis in Azure](https://github.com/mcamper/azure-network-protocols)
+ 
 
 <h2>🤳Connect with me:</h2>
 
