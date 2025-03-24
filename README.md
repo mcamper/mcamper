@@ -2,6 +2,10 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
+- <b>Microsoft Azure</b>
+  - [Configuring Active Directory in Azure VMs - Cloud-Based AD Deployment & Management](https://github.com/mcamper/configure-ad)
+  - [Network Security Groups (NSGs) & Protocol Analysis in Azure](https://github.com/mcamper/azure-network-protocols)
+
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Cloud Deployment & Configuration](https://github.com/mcamper/osticket-prereqs)
   - [osTicket: Cloud-Based Post-Install Configuration & Optimization](https://github.com/mcamper/post-install-config)
