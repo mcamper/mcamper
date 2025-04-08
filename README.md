@@ -4,7 +4,7 @@
 
 - <b>Microsoft Azure</b>
   - [Network Security Groups (NSGs) & Protocol Analysis in Azure](https://github.com/mcamper/az-network-protocols)
-  - [Configuring Active Directory in Azure VMs - Cloud-Based AD Deployment & Management](https://github.com/mcamper/AzAD-DomainSetup)
+  - [Cloud-Based Active Direcetory Domain Services Setup, Deployment, Configuration, and Management in Azure VMs](https://github.com/mcamper/AzAD-DomainSetup)
   - [Cloud DNS and VM Management in Azure](https://github.com/mcamper/azure-cloud-dns-setup)
   - [Cloud File Sharing and Security Management in Azure](https://github.com/mcamper/azure-cloud-file-sharinng-and-security)
 
