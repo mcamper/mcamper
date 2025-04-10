@@ -7,13 +7,8 @@
   - [Cloud-Based Active Direcetory Domain Services Setup, Deployment, Configuration, and Management in Azure VMs](https://github.com/mcamper/AzAD-DomainSetup)
   - [Cloud DNS and VM Management in Azure](https://github.com/mcamper/azure-cloud-dns-setup)
   - [Cloud File Sharing and Security Management in Azure](https://github.com/mcamper/azure-cloud-file-sharinng-and-security)
-
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Cloud Deployment & Configuration](https://github.com/mcamper/osticket-prereqs)
-  - [osTicket: Cloud-Based Post-Install Configuration & Optimization](https://github.com/mcamper/post-install-config)
-  - [osTicket: Cloud-Based Ticket Lifecycle Management & Automation](https://github.com/mcamper/ticket-lifecycle)
-
-<h2>🤳Connect with me:</h2>
+ 
+    
 
 [<img align="left" alt="MCamper | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="MCamper | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
