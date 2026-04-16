@@ -1,23 +1,48 @@
-<h1>Hi, I'm Maria, an <a href="https://linkedin.com/in/mariacamper">IT Professional</a></h1>
+# Maria Camper — AI QA Engineer
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+> Specializing in LLM Evaluation, Prompt Testing & AI Quality Assurance
 
-- <b>Microsoft Azure</b>
-  - [Network Security Groups (NSGs) & Protocol Analysis in Azure](https://github.com/mcamper/az-network-protocols)
-  - [Cloud-Based Active Direcetory Domain Services Setup, Deployment, Configuration, and Management in Azure VMs](https://github.com/mcamper/AzAD-DomainSetup)
-  - [Cloud DNS and VM Management in Azure](https://github.com/mcamper/azure-dns-set-up-and-mgmt)
-  - [Cloud File Sharing and Security Management in Azure](https://github.com/mcamper/azure-cloud-file-sharing-and-security)
- 
-    
+---
 
-[<img align="left" alt="MCamper | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="MCamper | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="MCamper | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+## 🔍 What I Do
 
-[twitter]: https://twitter.com/marialcamper
-[instagram]: https://www.instagram.com/Josh
-[linkedin]: https://linkedin.com/in/mariacamper
+I test AI systems the same way great QA engineers test software — 
+with structure, documentation, and repeatable methodology.
 
+My focus: catching what LLMs get wrong before your users do.
+
+- **Consistency & Relevance Testing** — Does the model answer what was asked?
+- **Faithfulness Evaluation** — Is the response grounded in source material?
+- **Accuracy & Ground Truth Validation** — Can outputs be verified against known facts?
+
+---
+
+## 🧪 Active Projects
+
+### [`llm-qa-test-framework`](https://github.com/mcamper/llm-qa-test-framework)
+A structured QA framework for evaluating LLM outputs.
+
+**Week 1 Results:**
+- 3 test cases executed (TC-001, TC-002, TC-003)
+- Findings: Faithfulness flag, synonym variance, ground truth validation
+- All cases documented with implications and severity
+
+> Built and maintained as part of [PromptAudit.co](https://promptaudit.co)
+
+---
+
+## 🛠️ Technical Background
+
+- QA Engineering | Test Case Design | Defect Documentation
+- LLM Evaluation | Prompt Engineering | AI Output Analysis
+- Azure (AZ-900) | Active Directory | Network Protocols
+
+---
+
+## 📬 Let's Connect
+
+- 🌐 [PromptAudit.co](https://promptaudit.co)
+- 📧 info@promptaudit.co
 
 
 
