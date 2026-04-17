@@ -1,4 +1,4 @@
-# Maria Camper — AI QA Engineer
+# Maria Camper — QA Analyst | AI & LLM Testing (Evaluation & RAG)
 
 > Specializing in LLM Evaluation, Prompt Testing & AI Quality Assurance
 
