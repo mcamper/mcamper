@@ -14,7 +14,7 @@ My focus: catching what LLMs get wrong before your users do.
 - **Consistency & Relevance Testing** — Does the model answer what was asked?
 - **Faithfulness Evaluation** — Is the response grounded in source material?
 - **Accuracy & Ground Truth Validation** — Can outputs be verified against known facts?
-
+- **Rubrics Based Criteria Scoring** — Evaluation based on score descriptions and ground truth.
 ---
 
 ## 🧪 Active Projects
@@ -23,8 +23,8 @@ My focus: catching what LLMs get wrong before your users do.
 A structured QA framework for evaluating LLM outputs.
 
 **Week 1 Results:**
-- 3 test cases executed (TC-001, TC-002, TC-003)
-- Findings: Faithfulness flag, synonym variance, ground truth validation
+- 4 test cases executed (TC-001, TC-002, TC-003, TC-004)
+- Findings: Faithfulness flag, synonym variance, ground truth validation. Rubric scoring passed successfully in 3.78 seconds
 - All cases documented with implications and severity
 
 > Built and maintained as part of [PromptAudit.co](https://promptaudit.co)
