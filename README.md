@@ -27,6 +27,10 @@ A structured QA framework for evaluating LLM outputs.
 - Findings: Faithfulness flag, synonym variance, ground truth validation. Rubric scoring passed successfully in 3.78 seconds
 - All cases documented with implications and severity
 
+**Week 2 Results:**
+- To be displayed at end of week
+
+
 > Built and maintained as part of [PromptAudit.co](https://promptaudit.co)
 
 ---
